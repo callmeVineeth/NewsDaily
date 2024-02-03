@@ -1,0 +1,190 @@
+
+{
+    "status": "ok",
+    "totalResults": 82836,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Morocco earthquake: Such magnitude usual for country",
+        "description": "There has been nothing bigger than a magnitude 6.0 in the affected area for more than one century.",
+        "url": "https://www.bbc.co.uk/news/world-africa-66762984",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C94/production/_131044018_gettyimages-1653682958.jpg",
+        "publishedAt": "2023-09-09T12:56:44Z",
+        "content": "The earthquake of magnitude 6.8 which has hit central Morocco is the biggest the area has seen since before 1900.\r\nMore than 820 people have died in the quake, which struck at 23:11 local time on Fri… [+1589 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lifehacker.com"
+        },
+        "author": "Elizabeth Yuko",
+        "title": "The Most Effective Ways to Combat Psychological Avoidance",
+        "description": "According to the National Institute of Mental Health (NIMH), more than 40 million adults in the U.S. (19.1%) have dealt with an anxiety disorder in the past year, making it the most common mental health condition in the country. And this figure only takes int…",
+        "url": "https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ba245e4dd45aabd8c0981be2b8c4ed79.jpg",
+        "publishedAt": "2023-09-17T15:00:00Z",
+        "content": "According to the National Institute of Mental Health (NIMH), more than 40 million adults in the U.S. (19.1%) have dealt with an anxiety disorder in the past year, making it the most common mental hea… [+2551 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Kyle Barr",
+        "title": "The Saga of the High-Radiation iPhone 12 Is Finally Over",
+        "description": "France may finally allow Apple to sell iPhone 12s in the country again after Apple has seemingly met the country’s electromagnetic radiation standards.Read more...",
+        "url": "https://gizmodo.com/france-says-radiation-iphone-12-is-fixed-1850886089",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/416ac7242c9b6e0bf7bee1ebe9b8f067.jpg",
+        "publishedAt": "2023-09-29T13:45:00Z",
+        "content": "France may finally allow Apple to sell iPhone 12s in the country again after Apple has seemingly met the countrys electromagnetic radiation standards.\r\nOn Friday, Frances LAgence Nationale des Fréque… [+2899 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "Halloween Event News From Disney Parks, Universal Studios, and More Fan-tastical Destinations",
+        "description": "From Los Angeles and Las Vegas, to New York City and Orlando—Halloween is in full force across the country, and it isn’t even October yet.Read more...",
+        "url": "https://gizmodo.com/halloween-theme-parks-hhn-disney-six-flags-immersive-1850860016",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4e870e8615c79c7db0a77c987eecdd57.png",
+        "publishedAt": "2023-09-22T19:00:00Z",
+        "content": "From Los Angeles and Las Vegas, to New York City and OrlandoHalloween is in full force across the country, and it isnt even October yet.\r\nIts haunt season, ghouls! While Disney Parks and Universal St… [+1235 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Guyana scrambles to make the most of oil wealth",
+        "description": "Guyana's president says the country has to hurry if it wants to maximise its recent discoveries.",
+        "url": "https://www.bbc.co.uk/news/world-latin-america-66715777",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5ADB/production/_130995232_guyana-top-afp.jpg",
+        "publishedAt": "2023-09-10T23:53:02Z",
+        "content": "President of Guyana Irfaan Ali has acknowledged \"time is not on our side\" as the South American country scrambles to make the most of its newfound oil wealth before it is too late.\r\nOver the past dec… [+3589 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Japan: One in 10 people aged 80 or older for first time",
+        "description": "The world's oldest country has long struggled with how to provide for its ageing and declining population.",
+        "url": "https://www.bbc.co.uk/news/world-asia-66850943",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3932/production/_131124641_gettyimages-1243635287.jpg",
+        "publishedAt": "2023-09-19T04:25:37Z",
+        "content": "For the first time ever, more than one in 10 people in Japan are now aged 80 years or older.\r\nOfficial data released to mark Japan's annual Respect for Aged Day holiday also shows the proportion of J… [+1821 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "Disney World Shut Down Half of Magic Kingdom After Actual Bear Snuck In",
+        "description": "The Country Bear Musical Jamboree recently announced some changes for a new show in 2024—and apparently word got out to the bear community, because a real life black bear made a surprise appearance at Frontierland at Walt Disney World’s Magic Kingdom. Read mo…",
+        "url": "https://gizmodo.com/wild-bear-sighting-at-walt-disney-world-florida-1850849790",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6d249cf804481becc196cf258207363b.png",
+        "publishedAt": "2023-09-18T18:00:00Z",
+        "content": "The Country Bear Musical Jamboree recently announced some changes for a new show in 2024and apparently word got out to the bear community, because a real life black bear made a surprise appearance at… [+1392 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Linda Codega",
+        "title": "Breaking Down What the Writers Guild Won",
+        "description": "After nearly 150 days on strike, the Writers Guild of America and the Association of Motion Picture and Television Producers have finally reached an agreement. The unit members celebrated across the country, and now the WGA has released a Memorandum of Agreem…",
+        "url": "https://gizmodo.com/breaking-down-what-the-writers-guild-won-1850877952",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f70ceae49f05f83f014a1114ddf65a32.jpg",
+        "publishedAt": "2023-09-27T19:15:00Z",
+        "content": "After nearly 150 days on strike, the Writers Guild of America and the Association of Motion Picture and Television Producers have finally reached an agreement. The unit members celebrated across the … [+4512 chars]"
+      },
+      {
+        "source": {
+          "id": "engadget",
+          "name": "Engadget"
+        },
+        "author": "Mariella Moon",
+        "title": "Apple chips made in the US still require assembly in Taiwan, report suggests",
+        "description": "Apple chief Tim Cook previously announced that the tech giant will be purchasing chips for its iPhones, Macs and other key products made in Taiwan Semiconductor Manufacturing Company's (TSMC) new factory in Phoenix, Arizona. It seemed like a huge win for the …",
+        "url": "https://www.engadget.com/apple-chips-made-in-the-us-still-require-assembly-in-taiwan-report-suggests-075211020.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4gEtnVb9ESntg7mh70eQ1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/107b98d0-75fb-11ed-bdab-576df2481aa2",
+        "publishedAt": "2023-09-12T07:52:11Z",
+        "content": "Apple chief Tim Cook previously announced that the tech giant will be purchasing chips for its iPhones, Macs and other key products made in Taiwan Semiconductor Manufacturing Company's (TSMC) new fac… [+2816 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Benj Edwards",
+        "title": "AI-generated child sex imagery has every US attorney general calling for action",
+        "description": "\"A race against time to protect the children of our country from the dangers of AI.\"",
+        "url": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-760x380.jpg",
+        "publishedAt": "2023-09-06T21:48:14Z",
+        "content": "37 with \r\nOn Wednesday, American attorneys general from all 50 states and four territories sent a letter to Congress urging lawmakers to establish an expert commission to study how generative AI can … [+6082 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Moises Mendez II",
+        "title": "Kelsea Ballerini on Undoing Country Music’s Norms",
+        "description": "The country artist, a member of the 2023 TIME 100 Next, has had a banner year as an artist and human working to make her genre more inclusive.",
+        "url": "https://time.com/6312681/kelsea-ballerini-interview-time-100-next/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/09/time100-next-kelsea-ballerini-alt.jpg?quality=85",
+        "publishedAt": "2023-09-13T12:00:00Z",
+        "content": "This article is part of the 2023 TIME100 Next, our annual list recognizing rising leaders in health, climate, business, sports, the arts, and more. Read more about Kelsea Balleriniand see the whole l… [+9242 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Kevin Lynch",
+        "title": "How to Watch 'The Voice 2023': Stream Season 24 From Anywhere - CNET",
+        "description": "The vocal talent show is back, with country legend Reba McEntire joining the mentors.",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-the-voice-2023-stream-season-24-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/592fd46ad2557539cc30c46ed05ce100d66c9422/hub/2023/09/25/81046ad2-c718-4458-8d61-c0b83c9ea920/the-voice-s24.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2023-09-25T21:15:00Z",
+        "content": "The Voice returns Monday for its 24th season, with country music royalty joining the mentor lineup for the singing competition show.\r\nSitting alongside the familiar faces of Niall Horan, John Legend … [+11186 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Huileng Tan",
+        "title": "A timeline of 5 major hurdles Russia's imposed on Western firms trying to exit the country",
+        "description": "From mandatory donations to demanding exiting banks unfreeze Russian assets, the Kremlin is making it harder for firms to exit the country.",
+        "url": "https://www.businessinsider.com/russia-penalties-companies-exit-market-ukraine-war-sanctions-timeline-2023-9",
+        "urlToImage": "https://i.insider.com/64285d8e72b7290018d229c1?width=1200&format=jpeg",
+        "publishedAt": "2023-09-08T04:45:00Z",
+        "content": "Many companies announced they were exiting Russia following the invasion, but just 535 have made a clean break since February 2022.Gavriil Grigorov/Sputnik, Kremlin Pool Photo via AP\r\n<ul>\n<li>Many c… [+5782 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Joseph Wilkins",
+        "title": "Country Garden just dodged a default but China's property-debt distress continues",
+        "description": "Leading Chinese developer Country Garden avoided a debt-default last week with an 11th-hour coupon payment. But this may have provided only a temporary relief for the Asian nation's ailing property sector.",
+        "url": "https://markets.businessinsider.com/news/bonds/country-garden-dodged-default-but-china-property-debt-distress-continues-2023-9",
+        "urlToImage": "https://i.insider.com/64fb1a0a3d3923001976a0e6?width=1200&format=jpeg",
+        "publishedAt": "2023-09-09T10:35:01Z",
+        "content": "A residential building of Country Garden in Fuyang City, East China's Anhui Province.Costfoto/Getty Images\r\n<ul>\n<li>Leading Chinese developer Country Garden avoided a debt-default last week with an … [+2888 chars]"
+      }
+   
+    ]
+  }

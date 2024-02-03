@@ -1,0 +1,29 @@
+
+.sphere {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #0073e6;
+    perspective: 1000px;
+    animation: rotate 8s linear infinite;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: center center -100px;
+    transform: translate(-50%, -50%) rotateX(90deg);
+    white-space: nowrap;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+@keyframes rotate {
+    0% {
+        transform: translate(-50%, -50%) rotateX(90deg) rotateY(0deg);
+    }
+    100% {
+        transform: translate(-50%, -50%) rotateX(90deg) rotateY(360deg);
+    }
+}
